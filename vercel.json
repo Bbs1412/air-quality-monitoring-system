@@ -1,1 +1,20 @@
-{}
+{
+    "version": 2,
+    "builds": [
+      { "src": "index.html", "use": "@vercel/static" },
+      { "src": "styles.css", "use": "@vercel/static" },
+      { "src": "dashboard.js", "use": "@vercel/static" },
+      { "src": "assets/**", "use": "@vercel/static" },
+      { "src": "public_images/**", "use": "@vercel/static" },
+      { "src": "api/fb_env.js", "use": "@vercel/node" }
+    ],
+    "routes": [
+      { "src": "/api/fb_env.js", "dest": "/api/fb_env.js" },
+      { "src": "/assets/(.*)", "dest": "/assets/$1" },
+      { "src": "/public_images/(.*)", "dest": "/public_images/$1" },
+      { "src": "/styles.css", "dest": "/styles.css" },
+      { "src": "/dashboard.js", "dest": "/dashboard.js" },
+      { "src": "/", "dest": "/index.html" }
+    ]
+  }
+  
