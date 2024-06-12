@@ -48,7 +48,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
    1. **User-Friendly Web Interface**  
        Provides a fully functional and responsive website, featuring regular updates and a comprehensive view of air quality data anywhere.
         
-      <img src="./public/edit_web.png" alt="website screenshots" style="max-width: 850px;">
+      <img src="./public_images/edit_web.png" alt="website screenshots" style="max-width: 850px;">
 
 
 ## Tech-Stack 💻
@@ -73,7 +73,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
         Data collected from the sensors by Arduino is passed to the Raspberry-Pi using serial communication at appropriate baud-rate.  
 
         &nbsp; &nbsp; &nbsp;
-        <img src="./public/ser_full.jpeg" width="250px" alt="Description of Image" />
+        <img src="./public_images/ser_full.jpeg" width="250px" alt="Description of Image" />
 
 
    * **`Data Filtering and Display:`**  
@@ -85,9 +85,9 @@ As a pre-requisite for the project in the subject, this project adheres to the C
         Based on the latest locally received data and online predictions, display graphics are generated and updated on an the LCD-TFT display.  
         
         &nbsp; &nbsp; &nbsp;
-       <img src="./public/runtime_display_gen.png" alt="C2F2T in heart rate monitor." width="250px"/> 
+       <img src="./public_images/runtime_display_gen.png" alt="C2F2T in heart rate monitor." width="250px"/> 
         &nbsp; &nbsp; &nbsp;
-       <img src="./public/runtime_display_pic.png" alt="Hierarchy of C2F2T and latency" width="250px"/>
+       <img src="./public_images/runtime_display_pic.png" alt="Hierarchy of C2F2T and latency" width="250px"/>
 
         &nbsp; &nbsp; &nbsp;
         Further, the data is passed to the cloud for storage and further access.
@@ -108,7 +108,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
    * **`Hardware Setup:`**  
         &nbsp; &nbsp; &nbsp;
-      <img src="./public/hardware.jpg" alt="Hardware" width="600">
+      <img src="./public_images/hardware.jpg" alt="Hardware" width="600">
 
 ## C2F2T Architecture
    
@@ -125,9 +125,9 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
    1. In this project:   
         &nbsp; &nbsp; &nbsp;
-         <img src="./public/c2f2t_1.png" alt="C2F2T in heart rate monitor." style="width: 300px"/>
+         <img src="./public_images/c2f2t_1.png" alt="C2F2T in heart rate monitor." style="width: 300px"/>
         &nbsp; &nbsp; &nbsp;
-         <img src="./public/c2f2t_2.png" alt="Hierarchy of C2F2T and latency" style="width: 350px; height: 257px"/>
+         <img src="./public_images/c2f2t_2.png" alt="Hierarchy of C2F2T and latency" style="width: 350px; height: 257px"/>
     
       1) **Things**:  
          - All sensors act as things. 
