@@ -16,5 +16,6 @@
       { "src": "/dashboard.js", "dest": "/dashboard.js" },
       { "src": "/", "dest": "/index.html" }
     ]
-  }
+}
   
+
