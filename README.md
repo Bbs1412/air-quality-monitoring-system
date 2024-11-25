@@ -24,6 +24,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
   - [C2F2T Architecture](#c2f2t-architecture)
   - [Links](#links)
   - [Team-mates](#team-mates)
+  - [License](#license)
   - [Contributions](#contributions)
     - [Contact](#contact)
 
@@ -176,6 +177,11 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 ## Contributions  
 
    Any contributions or suggestions are welcome! 
+
+## License
+
+   [![Code-License](https://img.shields.io/badge/License%20-GNU%20--%20GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
+   
 
 ### Contact
 
