@@ -168,10 +168,10 @@ As a pre-requisite for the project in the subject, this project adheres to the C
 
 ## Team-mates 
 
-   1. Bhushan Songire [(LinkedIn)](linkedin.co/in/bhushan-songire)
-   2. Basil Skaria
-   3. Vedant Choudhari
-   4. Ujjawal Kumar
+   1. Bhushan Songire [(LinkedIn)](https://www.linkedin.com/in/bhushan-songire)
+   1. Vedant Choudhari
+   1. Ujjawal Kumar
+   <!-- 1. Basil Skaria -->
    
 ## Contributions  
 
