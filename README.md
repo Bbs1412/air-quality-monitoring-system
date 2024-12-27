@@ -158,11 +158,9 @@ As a pre-requisite for the project in the subject, this project adheres to the C
     cd air-quality-monitoring-system
     ```
 
-<!-- 3. Video demonstration of project implementation:
-   [Redirect to LinkedIn](https://--------) 
-   future_work_here
-   update the numbers as well
-   -->
+3. Video demonstration of project implementation:  
+   [![YouTube](https://img.shields.io/badge/Youtube-Video_Link-red?style=flat&logo=Youtube&logoColor=red)](https://youtu.be/avSJYaPSGzs)
+
 
 3. Preliminary Repository:  
    [Link to repository](https://github.com/Basilskar/air-quality-monitoring-system)
