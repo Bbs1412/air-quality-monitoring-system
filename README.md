@@ -4,6 +4,17 @@
 
 This repository contains the website created to display the content of <u>real-time</u> HVAC <i>(Heat, ventilation, and air conditioning)</i> data monitoring.
 
+## `Important Update:` 
+> On : 21 Feb 2025
+- This repository represents my first real-world project involving live website deployment, cloud database integration, and sensor-based real-time data collection with microcontroller and SBC. It was an invaluable learning experience in building and managing a full-stack IoT application.
+
++ With a better understanding now, I have personally revamped the project with an improved architecture, optimizations, and a new deployment. The updated version is available in a separate repository: [air-quality-updated](https://github.com/Bbs1412/air-quality-updated).
+
++ This repository remains as an archive of my initial implementation. All future improvements and updates will continue in the new version.
+
+🔗 Please redirect to: [![Bbs1412/air-quality-updated](https://img.shields.io/badge/Bbs1412/-air--quality--updated-g?style=flat&logo=GitHub)](https://github.com/Bbs1412/air-quality-updated)   
+
+
 ## Description
 &nbsp; &nbsp; &nbsp;
 This project was developed as part of the `(BCSE313L) Fog and Edge Computing` course at VIT-Chennai.  
@@ -170,7 +181,7 @@ As a pre-requisite for the project in the subject, this project adheres to the C
    1. Bhushan Songire [(LinkedIn)](https://www.linkedin.com/in/bhushan-songire)
    1. Vedant Choudhari
    1. Ujjawal Kumar
-   <!-- 1. Basil Skaria -->
+   1. Basil Skaria
    
 ## Contributions  
 
